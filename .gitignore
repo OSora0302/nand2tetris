@@ -1,4 +1,6 @@
-software/
+demo/
+tools/
 
 *.tst
 *.out
+*.cmp
